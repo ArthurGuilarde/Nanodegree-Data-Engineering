@@ -7,7 +7,7 @@
  <p align="center">
   Udacity Nanodegree
   <br />
-  <a href=https://github.com/BinariesGoalls/Udacity-Data-Engineering-Nanodegree><strong>Explore the repository»</strong></a>
+  <a href=https://github.com/ArthurGuilarde/Nanodegree-Data-Engineering><strong>Explore the repository»</strong></a>
   <br />
   <br />
  </p>
@@ -19,18 +19,29 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# About The Nanodegree
+# About The Udacity Nanodegree 
+Learn to design data models, build data warehouses and data lakes, automate data pipelines, and work with
+massive datasets. At the end of the program, you’ll combine your new skills by completing a capstone project.
+Students should have intermediate SQL and Python programming skills.
+Educational Objectives: Students will learn to
+- Create user-friendly relational and NoSQL data models
+- Create scalable and efficient data warehouses
+- Work efficiently with massive datasets
+- Build and interact with a cloud-based data lake
+- Automate and monitor data pipelines
+- Develop proficiency in Spark, Airflow, and AWS tools
+
 You can check more details about the nanodegree program on this link: <a href=https://www.udacity.com/course/data-engineer-nanodegree--nd027><strong>Data Engineering Nanodegree</strong></a>
 
 <!-- ABOUT THE PROJECT -->
 
-<!-- PROGRAM DETAILS -->
+<!-- REPOSITORY DETAILS -->
 <br>
 
-# Program Details
-During this program, I will learn to design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets. At the end of the program, I’ll combine my new skills by completing a capstone project. <br>
-You will be find more deatils about each module inside module's folder
-<!-- PROGRAM DETAILS -->
+# Repository Details
+This Nanodegree is divided by five modules. In each module, following the structure below, you will find one or more projects and their respective information about them. Status ✅ represent that all module is done, ⏳ represent that the module is being worked on and ⏲️ represents the next modules.
+
+<!-- REPOSITORY DETAILS -->
 
 <!-- STRUCTURE -->
 <br>
@@ -67,11 +78,8 @@ You will be find more deatils about each module inside module's folder
 
 # Contact
 Arthur Guilarde - arthur.nemi.g@gmail.com
-<a id='container' href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
 
-Project Link: [Data-Engineering-Nanodegree](https://github.com/BinariesGoalls/Data-Engineering-Nanodegree)
+Project Link: [Data-Engineering-Nanodegree](https://github.com/ArthurGuilarde/Nanodegree-Data-Engineering)
 
-Linkedin: [https://www.linkedin.com/in/binariesgoalls/](https://www.linkedin.com/in/binariesgoalls/)
+Linkedin: [https://www.linkedin.com/in/arthurguilarde/](https://www.linkedin.com/in/arthurguilarde/)
 <!-- CONTACT -->
