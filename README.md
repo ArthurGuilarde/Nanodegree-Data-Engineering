@@ -47,13 +47,14 @@ This Nanodegree is divided by five modules. In each module, following the struct
 <br>
 
 # Structure 
-| Nº | Module                   |Status|
-|:--:|--------------------------|:--:|
-|01. | [Data Modeling](https://github.com/ArthurGuilarde)|✅|
-|02. | [Clound Data Warehouses]|⏳| 
-|03. | [Spark and Data Lakes]|⏲️|
-|04. | [Automate Data Pipelines]|⏲️|
-|05. | [Capstone Project]|⏲️|
+| Nº | Module                  |Project                                                                                    |Status|
+|:--:|-------------------------|-------------------------------------------------------------------------------------------|:----:|
+|01. | Data Modeling           | [Modeling with PostgreSQL](https://github.com/ArthurGuilarde/Data-Modeling-with-Postgres) |✅|
+|02. | Data Modeling           | [Modeling with Cassandra](https://github.com/ArthurGuilarde/Cassandra-Start-Project)      |✅|
+|03. | Clound Data Warehouses  | Data Warehouse                                                                            |⏳| 
+|04. | Spark and Data Lakes    | Data Lake with Spark                                                                      |⏲️|
+|05. | Automate Data Pipelines | Data pipeline                                                                             |⏲️|
+|06. | Capstone Project        | Final project                                                                             |⏲️|
 
 <!-- STRUCTURE -->
 
@@ -63,10 +64,10 @@ This Nanodegree is divided by five modules. In each module, following the struct
 # Technologies
 <a style="display: flex; align-items: center; justify-content: center;  flex-wrap: wrap;"  href="https://skillicons.dev">
   <!-- <img src="https://skillicons.dev/icons?i=py,postgres,cassandra,aws"/> -->
-  <img style="width: 60px"src="https://skillicons.dev/icons?i=py"/>
-  <img style="width: 60px" src="https://skillicons.dev/icons?i=postgres"/>
-  <img style="width: 60px" src="https://skillicons.dev/icons?i=cassandra"/>
-  <img style="width: 60px" src="https://skillicons.dev/icons?i=aws"/>
+  <img style="width: 70px"src="https://skillicons.dev/icons?i=py"/>
+  <img style="width: 70px" src="https://skillicons.dev/icons?i=postgres"/>
+  <img style="width: 70px" src="https://skillicons.dev/icons?i=cassandra"/>
+  <img style="width: 70px" src="https://skillicons.dev/icons?i=aws"/>
   <img style="margin-left: 10px; width: 150px" src="./utils/Apache_Spark_Logo.svg" />
   <img style="margin-left: 10px; width: 150px" src="./utils/Apache_Airflow_Logo.svg" />    
 </a>
